@@ -25,6 +25,7 @@ export default class App extends React.Component {
     //TODO create backend get other users locations
     //Create an HTTP Request
     //One arg sends GET request
+    //New comment
     fetch('<Request url>',{
       method:'POST',
       body: JSON.stringify({
